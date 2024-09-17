@@ -1,12 +1,6 @@
-## Hi there 👋
-
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+# Hungry Stranger Studios 🥪
+We are a indie game studio of students from the University of Calgary working to make fun, high quality games using Unity
+This is just the start for our group of 11 members but we have lots coming down the road including:
+### * ⌨️ Public Discord Server
+### * 🎟 Events 
+### * 🕹 And Lots of Games
