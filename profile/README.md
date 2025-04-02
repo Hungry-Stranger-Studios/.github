@@ -1,7 +1,5 @@
 # About Us 🥪
 We are a indie game studio of students from the University of Calgary working to make fun, high quality games using Unity <br>
-
-This is just the start for our group of 10 members but we have lots coming down the road including:
-* ### ⌨️ Public Discord Server
-* ### 🎟 Events 
-* ### 🕹 And Lots of Games
+Currently we are working on a Celeste like platforming game (with a working title) with a focus on using a gun that shoots electricity to interact with your environment, moving platforms, opening doors and more, to make your way through each of the levels. The protagonist of this game is a mad scientist who has to combat his very own inventions with said gun, in levels that get both increasingly difficult, and crazy as more of his inventions are incorperated. Stay tuned to see more of this as it comes down the pipeline. <br>
+<br>
+For our most recent games, check out https://coodycowmang.itch.io/foooore to play our 3D golf based platformer game all about hitting golfers to move through levels, and https://aweguessteen.itch.io/you-da-bomb for our survival based game where you are a bomb trying to diffuse yourself. Both can be played in the browser right now, and feel free to leave comments as we always love to hear your feedback!
